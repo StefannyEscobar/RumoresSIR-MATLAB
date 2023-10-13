@@ -1,14 +1,16 @@
 # RumoresSIR-MATLAB
 
 Este repositorio se centra en el análisis de la propagación de rumores en una población, utilizando un modelo SIR implementado en MATLAB y Simulink.
+## Información Detallada
+
+Si necesitas información más detallada o un informe completo sobre el análisis del modelo SIR para la propagación de rumores, no dudes en contactarnos. Estaremos encantados de proporcionarte el informe e información adicional.
 
 ## Contenido del Repositorio
 
 - `src/`: Contiene los archivos fuente y modelos de Simulink.
   - `entradas.slx`: Archivo de Simulink para probar diferentes entradas en el modelo.
   - `modelo_verificado.slx`: Archivo de Simulink que contiene el modelo SIR verificado, es decir para comparar si se comporta como el modelo propuesto en [The Mathematics of Gossip](https://github.com/izabelaguiar/The-Mathematics-of-Gossip).
-- `results/`: Documentación detallada y LiveScript de análisis (`Resultados.mlx`). 
-- `docs/`: Resultados de simulación y análisis en el (`informe.pdf`) .
+- `results/`: LiveScript de análisis (`Resultados.mlx`). 
 
 ## Instrucciones para la Reproducción
 
