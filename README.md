@@ -27,3 +27,25 @@ Este proyecto se basa en la guía 'The Mathematics of Gossip'. Puedes consultar 
 
 Juan José Sanchéz Sanchéz y Julieth Stefanny Escobar Ramirez - Compartiendo el análisis del modelo SIR para la propagación de rumores.
 
+# English Version : RumorsSIR-MATLAB
+
+This repository focuses on the analysis of rumor propagation within a population using an SIR model implemented in MATLAB and Simulink.
+
+## Detailed Information
+
+If you require more detailed information or a comprehensive report on the analysis of the SIR model for rumor propagation, please do not hesitate to contact us. We will be delighted to provide you with the report and additional information.
+
+## Repository Contents
+
+- `src/`: Contains the source files and Simulink models.
+  - `entradas.slx`: Simulink file for testing different inputs in the model.
+  - `modelo_verificado.slx`: Simulink file containing the verified SIR model, used for comparison with the model proposed in [The Mathematics of Gossip](https://github.com/izabelaguiar/The-Mathematics-of-Gossip).
+- `results/`: Analysis LiveScript (`Results.mlx`).
+
+## Citation
+
+This project is based on 'The Mathematics of Gossip' guide. You can reference the original guide at [this link](https://github.com/izabelaguiar/The-Mathematics-of-Gossip).
+
+## Authors
+
+Juan José Sanchéz Sanchéz and Julieth Stefanny Escobar Ramirez - Sharing the analysis of the SIR model for rumor propagation.
